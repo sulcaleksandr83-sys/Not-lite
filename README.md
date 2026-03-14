@@ -1,5 +1,4 @@
 # Not-lite
-index.html
 <!DOCTYPE html>
 <html lang="ru">
 <head>
@@ -54,7 +53,6 @@ h2 {
 .buttons button:hover {
     transform: scale(1.05);
 }
-script.js
 let tokens = 0;
 let power = 1;
 
