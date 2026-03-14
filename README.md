@@ -18,7 +18,6 @@
     <script src="script.js"></script>
 </body>
 </html>
-style.css
 body {
     background-color: #1a1a2e;
     color: #ffffff;
